@@ -11,13 +11,13 @@ In order to view the available houses located in the:
 - center of Athens, use `./spitogatos_center.sh [arg]`
 - south of Athens, use `./spitogatos_south.sh [arg]`
 - center or south, use `./spitogatos_latest.sh [arg]`
-> arg can be 3, 7 or 30 
+*arg can be 3, 7 or 30*
 
 ###### Ads from www.xe.gr
 In order to view the available houses located in the:
 - center of Athens, use `./xe_center.sh [arg]`
-- south of Athens, use `xe_center_south.sh [arg]`
-- center or south, use `xe_latest.sh [arg]`
-> arg1 can be 1, 3, 10 or 30 
+- south of Athens, use `./xe_center_south.sh [arg]`
+- center or south, use `./xe_latest.sh [arg]`
+*arg1 can be 1, 3, 10 or 30*
 
 
